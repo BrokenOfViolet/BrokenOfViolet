@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 # Hi there, I'm BrokenOfViolet! 👋 
 
 ## 🧑‍💻 About Me
@@ -46,7 +47,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 🚀 Projects
 
-- [ML streak](https://github.com/BrokenOfViolet/ml) - 70+ Machine Learning Projects
+- [Sky_Takeaway](https://github.com/BrokenOfViolet/Sky_Takeaway) - Order system based on springboot, mybatis, and vue.js
 - [Notes and code for Programming Massively Parallel Processors](https://github.com/BrokenOfViolet/PMPP_notes)
 - [Algorithms and Data Structures](https://github.com/BrokenOfViolet/algorithms_and_data_structures)
 - [Modern C++ Concepts](https://github.com/BrokenOfViolet/modern-cpp-concepts)
@@ -59,12 +60,3 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 - [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://BrokenOfViolet.github.io/posts/model_architecture_optimizations/)
 - [Scaling Laws in Large Language Models](https://BrokenOfViolet.github.io/posts/scaling_laws/)
 - [More Blog Posts](https://BrokenOfViolet.com)
-
-
-<!--
-**BrokenOfViolet/BrokenOfViolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
