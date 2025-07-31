@@ -1,6 +1,18 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mandliya&color=blue&style=for-the-badge)
-
-# Hi there, I'm Ravi! 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=BrokenOfViolet&color=blue&style=for-the-badge)
+<table align="center" style="max-width: 900px; width: 100%;">
+  <tr>
+    <td width="60%" style="padding-right: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="100%" alt="coding gif" />
+    </td>
+    <td align="center" width="40%">
+      <a href="https://github.com/BrokenOfViolet" target="_blank" rel="noopener noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/149236516?s=400&u=1c75496e795105e24746994ec69ac83763461981&v=4" width="200" height="200" 
+             style="border-radius: 0; object-fit: cover; border: 4px solid #0078D7; box-shadow: 0 0 15px rgba(0, 120, 215, 0.5);" alt="avatar" />
+      </a>
+    </td>
+  </tr>
+</table>
+# Hi there, I'm BrokenOfViolet! 👋 
 
 ## 🧑‍💻 About Me
 AI Enthusiast | Machine Learning Engineer | Open Source Contributor
@@ -10,7 +22,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 - 🌱 I’m currently learning Large Language Model Inference Optimization and Advanced Recommendation System techniques.
 - 👯 I’m looking to collaborate on any ML research project (especially LLMs and RecSys)
 - 💬 Ask me about machine learning, deep learning, recommender systems and LLMs
-- 📫 How to reach me: email me at `ravi.mandliya@github.com`
+- 📫 How to reach me: email me at `ravi.BrokenOfViolet@github.com`
 
 
 
@@ -29,28 +41,28 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandliya&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandliya)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrokenOfViolet&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrokenOfViolet)
 
 ## 🚀 Projects
 
-- [ML streak](https://github.com/mandliya/ml) - 70+ Machine Learning Projects
-- [Notes and code for Programming Massively Parallel Processors](https://github.com/mandliya/PMPP_notes)
-- [Algorithms and Data Structures](https://github.com/mandliya/algorithms_and_data_structures)
-- [Modern C++ Concepts](https://github.com/mandliya/modern-cpp-concepts)
-- [Blog](https://mandliya.com) - Sharing insights on ML, DL, RecSys, LLMs
+- [ML streak](https://github.com/BrokenOfViolet/ml) - 70+ Machine Learning Projects
+- [Notes and code for Programming Massively Parallel Processors](https://github.com/BrokenOfViolet/PMPP_notes)
+- [Algorithms and Data Structures](https://github.com/BrokenOfViolet/algorithms_and_data_structures)
+- [Modern C++ Concepts](https://github.com/BrokenOfViolet/modern-cpp-concepts)
+- [Blog](https://BrokenOfViolet.com) - Sharing insights on ML, DL, RecSys, LLMs
 
 ## 🌱 Latest Blog Posts
 
-- [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
-- [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://mandliya.github.io/posts/LLM_inference_2)
-- [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://mandliya.github.io/posts/model_architecture_optimizations/)
-- [Scaling Laws in Large Language Models](https://mandliya.github.io/posts/scaling_laws/)
-- [More Blog Posts](https://mandliya.com)
+- [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://BrokenOfViolet.github.io/posts/LLM_inference_1/)
+- [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://BrokenOfViolet.github.io/posts/LLM_inference_2)
+- [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://BrokenOfViolet.github.io/posts/model_architecture_optimizations/)
+- [Scaling Laws in Large Language Models](https://BrokenOfViolet.github.io/posts/scaling_laws/)
+- [More Blog Posts](https://BrokenOfViolet.com)
 
 
 <!--
-**mandliya/mandliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BrokenOfViolet/BrokenOfViolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
