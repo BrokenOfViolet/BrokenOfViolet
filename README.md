@@ -42,21 +42,5 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrokenOfViolet&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrokenOfViolet)
 
-## 🚀 Projects
-
-- [Sky_Takeaway](https://github.com/BrokenOfViolet/Sky_Takeaway) - Order system based on springboot, mybatis, and vue.js
-- [Notes and code for Programming Massively Parallel Processors](https://github.com/BrokenOfViolet/PMPP_notes)
-- [Algorithms and Data Structures](https://github.com/BrokenOfViolet/algorithms_and_data_structures)
-- [Modern C++ Concepts](https://github.com/BrokenOfViolet/modern-cpp-concepts)
-- [Blog](https://BrokenOfViolet.com) - Sharing insights on ML, DL, RecSys, LLMs
-
-## 🌱 Latest Blog Posts
-
-- [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://BrokenOfViolet.github.io/posts/LLM_inference_1/)
-- [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://BrokenOfViolet.github.io/posts/LLM_inference_2)
-- [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://BrokenOfViolet.github.io/posts/model_architecture_optimizations/)
-- [Scaling Laws in Large Language Models](https://BrokenOfViolet.github.io/posts/scaling_laws/)
-- [More Blog Posts](https://BrokenOfViolet.com)
